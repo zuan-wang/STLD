@@ -7,7 +7,7 @@ Next, compile the project as follows:
 - Execute the command “cmake PATH” in the build directory to generate a Makefile (PATH is the directory where CMakeLists.txt is located).
 - Use the command "make" to compile.
 
-Next, run STLD as follows:
+Then, run STLD as follows:
 - Run certificate authority (CA) to produce a key pair <pk, sk> via:  
 `./build/main ca 1024`
 
